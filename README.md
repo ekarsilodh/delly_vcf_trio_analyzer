@@ -21,7 +21,7 @@ This pipeline:
 # 📦 Repository Structure
 
 ```
-delly_vcf_trio_analyzer/
+DELLY-SV-Trios/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
