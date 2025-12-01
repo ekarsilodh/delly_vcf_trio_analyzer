@@ -1,5 +1,7 @@
 # Delly VCF Trio Analyzer
 
+[![DOI](https://zenodo.org/badge/1106269273.svg)](https://doi.org/10.5281/zenodo.17781904)
+
 A lightweight, research-oriented pipeline for **trio-based structural variant (SV) analysis** using a combination of Python, AWK, and BEDTools.  
 The tool is designed to work on **multi-sample Delly VCF (GRCh38/hg38)** files containing structural variants.
 
@@ -170,4 +172,9 @@ docs/usage_notes.md
 # 📝 License
 
 MIT License (see LICENSE)
+
+---
+
+# If you are using this cite the following:
+E. Lodh, “Delly-VCF-Trio-Analyzer: A Complete Pipeline for Trio-Based Structural Variant Interpretation”. Zenodo, Dec. 01, 2025. doi: [10.5281/zenodo.17781905](https://doi.org/10.5281/zenodo.17781905).
 
