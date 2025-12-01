@@ -175,6 +175,6 @@ MIT License (see LICENSE)
 
 ---
 
-# If you are using this cite the following:
+## If this project was helpful and you have used this in your work, please cite the following:
 E. Lodh, “Delly-VCF-Trio-Analyzer: A Complete Pipeline for Trio-Based Structural Variant Interpretation”. Zenodo, Dec. 01, 2025. doi: [10.5281/zenodo.17781905](https://doi.org/10.5281/zenodo.17781905).
 
